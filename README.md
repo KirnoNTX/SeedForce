@@ -29,7 +29,7 @@ pip install web3 mnemonic
       w3 = Web3(Web3.HTTPProvider('https://mainnet.infura.io/v3/XXXXXXXXXXX'))
 
 4 . Modify time sleep to change search speed
-      time.sleep(0.09)  # Spreading 100,000 free Infura queries (0.9 default).
+      time.sleep(0.9)  # Spreading 100,000 free Infura queries (0.9 default).
 
 # If you have a problem or error please contact Kirno
 ```
