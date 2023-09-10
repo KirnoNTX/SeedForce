@@ -1,4 +1,4 @@
-# How tu use SeedForce V.0.5
+# How to use SeedForce V.0.5
 
 Generates an EVM-compatible 12 or 24 word sentence, extracts the associated address and checks its balance. And if the address contains ETH, adds it to the list of addresses with funds and its seed phrase.
 
